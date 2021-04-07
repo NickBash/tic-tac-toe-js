@@ -4,7 +4,7 @@
 
 ## Пример
 
-Пример доступен по адресу [http://localhost:8080](http://localhost:8080)
+Пример доступен по адресу [https://tic-tac-toe-js-9e04f.web.app/](https://tic-tac-toe-js-9e04f.web.app/)
 
 ## Available Scripts
 
