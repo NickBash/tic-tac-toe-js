@@ -4,7 +4,7 @@
 
 ## Пример
 
-Пример доступен по адресу [https://tic-tac-toe-js-9e04f.web.app/](https://tic-tac-toe-js-9e04f.web.app/)
+Пример доступен по адресу [https://tic-tac-toe.nikitabashdev.ru/](https://tic-tac-toe.nikitabashdev.ru/)
 
 ## Available Scripts
 
